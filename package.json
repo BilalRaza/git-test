@@ -19,4 +19,7 @@
     "url": "https://github.com/BilalRaza/git-test/issues"
   },
   "homepage": "https://github.com/BilalRaza/git-test#readme",
-  "d
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
